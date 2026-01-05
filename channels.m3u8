@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ANT1 [CY]" tvg-logo="", ANT1 [CY]
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-name="SIGMA [CY]" tvg-logo="", SIGMA [CY]
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+#EXTINF:-1 tvg-name="OMEGA [CY]" tvg-logo="", OMEGA [CY]
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-name="RIK1 [CY]" tvg-logo="", RIK1 [CY]
+https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 tvg-name="RIK2 [CY]" tvg-logo="", RIK2 [CY]
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-name="ANT1 [GR]" tvg-logo="", ANT1 [GR]
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-name="MEGA [GR]" tvg-logo="", MEGA [GR]
+http://31.121.110.30:4000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-name="SKAI [GR]" tvg-logo="", SKAI [GR]
+http://31.121.110.30:4000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-name="STAR [GR]" tvg-logo="", STAR [GR]
+https://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 tvg-name="OPEN [GR] (GR)" tvg-logo="", OPEN [GR]
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 tvg-name="ALPHA [GR]" tvg-logo="", ALPHA [GR]
+http://31.121.110.30:4000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-name="ERT2 [GR]" tvg-logo="", ERT2 [GR]
+http://31.121.110.30:4000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-name="ERT3 [GR]" tvg-logo="", ERT3 [GR]
+http://31.121.110.30:4000/play/a029/index.m3u8
